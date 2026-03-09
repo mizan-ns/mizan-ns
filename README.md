@@ -1,6 +1,6 @@
 ### 💻 Programming Activity
 
-<table border-collapse: collapse; border: none;">
+<table width="100%" style="border-collapse: collapse; border: none;">
   <tr style="border: none;">
     <td width="70%" align="left" valign="middle" style="border: none; padding: 12px 0;"><code>Language</code></td>
     <td width="80%" align="center" valign="middle" style="border: none; padding: 12px 0;"><code>Time Spent</code></td>
