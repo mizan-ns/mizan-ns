@@ -49,7 +49,7 @@
 <div align="center">
   <table>
     <tr>
-      <th colspan="7" width="1200" align="center">💻 Language & Framework</th>
+      <th colspan="7" width="1200" align="center">👨‍💻 Language & Framework</th>
     </tr>
     <tr>
       <td align="center"><img src="https://icon-mj.vercel.app/icon/language/python?size=20" alt="Python" valign="middle"/>&nbsp;Python</td>
