@@ -46,60 +46,76 @@
   
 ---
 
-## <img src="https://cdn.jsdelivr.net/gh/circle-earth/circle-earth@gif/assets/backend.gif" alt="Tech stack" width="30"> Language & Framework
-<p align="center">
-  <img height="28" alt="TypeScript" src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" />
-  <img height="28" alt="JavaScript" src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
-  <img height="28" alt="Python" src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
-  <img height="28" alt="Go" src="https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white" />
-  <img height="28"alt="Dart" src="https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white" />
-  <img height="28" alt="React" src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
-  <img height="28" alt="Next.js" src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white" />
-  <img height="28" alt="Vue.js" src="https://img.shields.io/badge/Vue.js-35495E?style=for-the-badge&logo=vuedotjs&logoColor=4FC08D" />
-  <img height="28" alt="Svelte" src="https://img.shields.io/badge/Svelte-FF3E00?style=for-the-badge&logo=svelte&logoColor=white" />
-  <img height="28" alt="Taiwind CSS" src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white" />
-  <img height="28" alt="Redux" src="https://img.shields.io/badge/Redux-593D88?style=for-the-badge&logo=redux&logoColor=white" />
-  <img height="28" alt="Node.js" src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" />
-  <img height="28" alt="NestJs" src="https://img.shields.io/badge/NestJS-E0234E?style=for-the-badge&logo=nestjs&logoColor=white" />
-  <img height="28" alt="Express" src="https://img.shields.io/badge/Express-000000?style=for-the-badge&logo=express&logoColor=white" />
-  <img height="28" alt="Fastify" src="https://img.shields.io/badge/Fastify-000000?style=for-the-badge&logo=fastify&logoColor=white" />
-  <img height="28" alt="Django" src="https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white" />
-  <img height="28" alt="Flask" src="https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white" />
-</p>
-
----
-
-## <img src="https://cdn.jsdelivr.net/gh/circle-earth/circle-earth@gif/assets/cloud.gif" alt="cloud" width="30"> Cloud & DevOps
-<p align="center">
-  <img height="28" alt="AWS" src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white" />
-  <img height="28" alt="GCP" src="https://img.shields.io/badge/GCP-4285F4?style=for-the-badge&logo=googlecloud&logoColor=white" />
-  <img height="28" alt="Docker" src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" />
-  <img height="28" alt="Kubernetes" src="https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white" />
-  <img height="28" alt="Github Action" src="https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=github-actions&logoColor=white" />
-</p>
-
----
-
-## <img src="https://cdn.jsdelivr.net/gh/circle-earth/circle-earth@gif/assets/database.gif" alt="database" width="30"> Database
-<p align="center">
-  <img height="28" alt="PostgreSQL" src="https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white" />
-  <img height="28" alt="MySQL" src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" />
-  <img height="28" alt="MongoDB" src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white" />
-  <img height="28" alt="Redis" src="https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white" />
-  <img height="28" alt="Firebase" src="https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black" />
-</p>
-
----
-
-## <img src="https://cdn.jsdelivr.net/gh/circle-earth/circle-earth@gif/assets/tools.gif" alt="tools" width="30"> Tools & Platforms
-<p align="center">
-  <img height="28" alt="Git" src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
-  <img height="28" alt="Linux" src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" />
-  <img height="28" alt="Postman" src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white" />
-  <img height="28" alt="Vercel" src="https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white" />
-</p>
-
----
+<div align="center">
+  <table>
+    <tr>
+      <th colspan="7" width="1200" align="center">💻 Language & Framework</th>
+    </tr>
+    <tr>
+      <td align="center"><img src="https://icon-mj.vercel.app/icon/language/python?size=20" alt="Python" valign="middle"/>&nbsp;Python</td>
+      <td align="center"><img src="https://icon-mj.vercel.app/icon/language/java?size=20" alt="Java" valign="middle"/>&nbsp;Java</td>
+      <td align="center"><img src="https://icon-mj.vercel.app/icon/language/php?size=20" alt="PHP" valign="middle"/>&nbsp;PHP</td>
+      <td align="center"><img src="https://icon-mj.vercel.app/icon/language/go?size=20" alt="Go" valign="middle"/>&nbsp;Go</td>
+      <td align="center"><img src="https://icon-mj.vercel.app/icon/language/dart?size=20" alt="Dart" valign="middle"/>&nbsp;Dart</td>
+      <td align="center"><img src="https://icon-mj.vercel.app/icon/language/javascript?size=20" alt="JavaScript" valign="middle"/>&nbsp;JavaScript</td>
+      <td align="center"><img src="https://icon-mj.vercel.app/icon/language/typescript?size=20" alt="TypeScript" valign="middle"/>&nbsp;TypeScript</td>
+    </tr>
+    <tr>
+      <td align="center"><img src="https://icon-mj.vercel.app/icon/language/html5?size=20" alt="HTML" valign="middle"/>&nbsp;HTML</td>
+      <td align="center"><img src="https://icon-mj.vercel.app/icon/language/css?size=20" alt="CSS" valign="middle"/>&nbsp;CSS</td>
+      <td align="center"><img src="https://icon-mj.vercel.app/icon/language/tailwindcss?size=20" alt="Tailwind" valign="middle"/>&nbsp;Tailwind</td>
+      <td align="center"><img src="https://icon-mj.vercel.app/icon/language/react?size=20" alt="React" valign="middle"/>&nbsp;React</td>
+      <td align="center"><img src="https://icon-mj.vercel.app/icon/language/nextjs?size=20" alt="Next.js" valign="middle"/>&nbsp;Next.js</td>
+      <td align="center"><img src="https://icon-mj.vercel.app/icon/language/vuejs?size=20" alt="Vue.js" valign="middle"/>&nbsp;Vue.js</td>
+      <td align="center"><img src="https://icon-mj.vercel.app/icon/language/svelte?size=20" alt="Svelte" valign="middle"/>&nbsp;Svelte</td>
+    </tr>
+    <tr>
+      <td align="center"><img src="https://icon-mj.vercel.app/icon/language/redux?size=20" alt="Redux" valign="middle"/>&nbsp;Redux</td>
+      <td align="center"><img src="https://icon-mj.vercel.app/icon/language/nodejs?size=20" alt="Node.js" valign="middle"/>&nbsp;Node.js</td>
+      <td align="center"><img src="https://icon-mj.vercel.app/icon/language/express?size=20" alt="Express" valign="middle"/>&nbsp;Express</td>
+      <td align="center"><img src="https://icon-mj.vercel.app/icon/language/nestjs?size=20" alt="NestJS" valign="middle"/>&nbsp;NestJS</td>
+      <td align="center"><img src="https://icon-mj.vercel.app/icon/language/fastify?size=20" alt="Fastify" valign="middle"/>&nbsp;Fastify</td>
+      <td align="center"><img src="https://icon-mj.vercel.app/icon/language/django?size=20" alt="Django" valign="middle"/>&nbsp;Django</td>
+      <td align="center"><img src="https://icon-mj.vercel.app/icon/language/flask?size=20" alt="Flask" valign="middle"/>&nbsp;Flask</td>
+    </tr>
+    <tr>
+      <th colspan="7" align="center">☁️ Cloud & DevOps</th>
+    </tr>
+    <tr>
+      <td align="center"><img src="https://icon-mj.vercel.app/icon/language/aws?size=20" alt="AWS" valign="middle"/>&nbsp;AWS</td>
+      <td align="center"><img src="https://icon-mj.vercel.app/icon/language/gcp?size=20" alt="GCP" valign="middle"/>&nbsp;GCP</td>
+      <td align="center"><img src="https://icon-mj.vercel.app/icon/language/docker?size=20" alt="Docker" valign="middle"/>&nbsp;Docker</td>
+      <td align="center"><img src="https://icon-mj.vercel.app/icon/language/kubernetes?size=20" alt="Kubernetes" valign="middle"/>&nbsp;K8s</td>
+      <td align="center"><img src="https://icon-mj.vercel.app/icon/language/githubactions?size=20" alt="GitHub Actions" valign="middle"/>&nbsp;Actions</td>
+      <td align="center"><img src="https://icon-mj.vercel.app/icon/language/azure?size=20" alt="Azure" valign="middle"/>&nbsp;Azure</td>
+      <td align="center"><img src="https://icon-mj.vercel.app/icon/language/digitalocean?size=20" alt="DigitalOcean" valign="middle"/>&nbsp;DigitalOcean</td>
+    </tr>
+    <tr>
+      <th colspan="7" align="center">🗄️ Database</th>
+    </tr>
+    <tr>
+      <td align="center"><img src="https://icon-mj.vercel.app/icon/language/postgresql?size=20" alt="PostgreSQL" valign="middle"/>&nbsp;Postgres</td>
+      <td align="center"><img src="https://icon-mj.vercel.app/icon/language/mysql?size=20" alt="MySQL" valign="middle"/>&nbsp;MySQL</td>
+      <td align="center"><img src="https://icon-mj.vercel.app/icon/language/mongodb?size=20" alt="MongoDB" valign="middle"/>&nbsp;MongoDB</td>
+      <td align="center"><img src="https://icon-mj.vercel.app/icon/language/redis?size=20" alt="Redis" valign="middle"/>&nbsp;Redis</td>
+      <td align="center"><img src="https://icon-mj.vercel.app/icon/language/firebase?size=20" alt="Firebase" valign="middle"/>&nbsp;Firebase</td>
+      <td align="center"><img src="https://icon-mj.vercel.app/icon/language/sqlite?size=20" alt="SQLite" valign="middle"/>&nbsp;SQLite</td>
+      <td align="center"><img src="https://icon-mj.vercel.app/icon/language/mariadb?size=20" alt="MariaDB" valign="middle"/>&nbsp;MariaDB</td>
+    </tr>
+    <tr>
+      <th colspan="7" align="center">🛠️ Tools & Platforms</th>
+    </tr>
+    <tr>
+      <td align="center"><img src="https://icon-mj.vercel.app/icon/language/git?size=20" alt="Git" valign="middle"/>&nbsp;Git</td>
+      <td align="center"><img src="https://icon-mj.vercel.app/icon/language/linux?size=20" alt="Linux" valign="middle"/>&nbsp;Linux</td>
+      <td align="center"><img src="https://icon-mj.vercel.app/icon/language/postman?size=20" alt="Postman" valign="middle"/>&nbsp;Postman</td>
+      <td align="center"><img src="https://icon-mj.vercel.app/icon/language/vercel?size=20" alt="Vercel" valign="middle"/>&nbsp;Vercel</td>
+      <td align="center"><img src="https://icon-mj.vercel.app/icon/language/npm?size=20" alt="npm" valign="middle"/>&nbsp;npm</td>
+      <td align="center"><img src="https://icon-mj.vercel.app/icon/language/vite?size=20" alt="Vite" valign="middle"/>&nbsp;Vite</td>
+      <td align="center"><img src="https://icon-mj.vercel.app/icon/language/figma?size=20" alt="Figma" valign="middle"/>&nbsp;Figma</td>
+    </tr>
+  </table>
+</div>
 
 <p align="center">
 <table width="1200" border="0" cellpadding="0" cellspacing="0" style="border:none;">
