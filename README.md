@@ -102,13 +102,13 @@
 ---
 
 <p align="center">
-<table width="100%" border="0" cellpadding="0" cellspacing="0" style="border:none;">
-  <td align="right">
+<table width="1200" border="0" cellpadding="0" cellspacing="0" style="border:none;">
+  <td align="left">
       <img src="https://github-readme-stats-mj.vercel.app/api?username=circle-earth&theme=tokyonight&show=reviews&hide_border=false&border_radius=2"
       alt="GitHub stats" width="100%"/>
     </td>
-  <td align="left" width="47%">      
-  <img src="https://github-readme-stats-mj.vercel.app/api/top-langs/?username=circle-earth&theme=tokyonight&hide_border=true&include_all_commits=false&count_private=false&layout=compact" alt="Top languages" width="100%"/></td>
+  <td align="right" width="47%">      
+  <img src="https://github-readme-stats-mj.vercel.app/api/top-langs/?username=circle-earth&theme=tokyonight&hide_border=true&include_all_commits=false&count_private=false&layout=compact" alt="Top languages" width="600"/></td>
   </table></p>
   
 <!--START_SECTION:waka-->
